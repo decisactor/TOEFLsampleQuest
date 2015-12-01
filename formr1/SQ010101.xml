@@ -1,6 +1,6 @@
 <TestItem CLASS="passage_ssmc" METHOD="list">
 <skillDimension>unknown</skillDimension>
-<itemGroup>Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
+<itemGroup>SQ010101_Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
 <TPPassage>SQ010101.txt</TPPassage>
 <Stem>The word |pose| in the passage is closest in meaning to</Stem>
 <Distractor_list>

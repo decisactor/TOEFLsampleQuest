@@ -7,7 +7,7 @@
 
 
 <TESTLET LABEL="Reading" FORCE_COMPLETE_ANS="0" TIME="2400" NUMBQUESTS="14" PREV_AVAIL="1" READING_EARLY_END="1" REVIEW_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="1">
-		<TestItemName>Meteorite_Impact_and_Dinosaur_Extinction.xml</TestItemName>	
+		<TestItemName>SQ010100.xml</TestItemName>	
 		<TestItemName>SQ010101.xml</TestItemName>	
 		<TestItemName>SQ010102.xml</TestItemName>	
 		<TestItemName>SQ010103.xml</TestItemName>	
@@ -27,7 +27,7 @@
 <TestItem CLASS="ListOfQuestions">
 	
 <TESTLET LABEL="Reading" FORCE_COMPLETE_ANS="0" TIME="LEFT_OVER" NUMBQUESTS="14" PREV_AVAIL="1" READING_EARLY_END="1" REVIEW_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="1">
-		<TestItemName>Is_Personality_Consistent.xml</TestItemName>	
+		<TestItemName>SQ010200.xml</TestItemName>	
 		<TestItemName>SQ010201.xml</TestItemName>	
 		<TestItemName>SQ010202.xml</TestItemName>	
 		<TestItemName>SQ010203.xml</TestItemName>	

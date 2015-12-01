@@ -1,5 +1,5 @@
 <TestItem CLASS="view_this_passage_noquest" METHOD="list" TIMELIMIT="900">
   <itemGroup>Is_Personality_Consistent</itemGroup>
-  <TPPassage>Is_Personality_Consistent.txt</TPPassage>
+  <TPPassage>SQ010200_Is_Personality_Consistent.txt</TPPassage>
   <Glossary>some bullshit here</Glossary>
 </TestItem>

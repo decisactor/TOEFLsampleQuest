@@ -1,4 +1,4 @@
 <TestItem CLASS="view_this_passage_noquest" METHOD="list" TIMELIMIT="900">
 	<itemGroup>Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
-	<TPPassage>Meteorite_Impact_and_Dinosaur_Extinction.txt</TPPassage>
+	<TPPassage>SQ010100_Meteorite_Impact_and_Dinosaur_Extinction.txt</TPPassage>
 </TestItem>
