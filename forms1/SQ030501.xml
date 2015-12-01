@@ -1,0 +1,16 @@
+<TestItem CLASS="speaking_paced" METHOD="list" TIMELIMIT="60" PREPLIMIT="20" SHOWDIRECTIONS="FALSE">
+  <skillDimension>unknown</skillDimension>
+  <itemGroup></itemGroup>
+  
+  <miniLecture>
+    <LecturePicture>Cor01A5_jpg.jpg</LecturePicture>
+    <LecturePicture>Cor01A5_jpg.jpg</LecturePicture>
+    <LecturePicture>GetRead3_gif.gif</LecturePicture>
+    <LectureSound>SQ030501_a01.wav</LectureSound>
+    <LectureSound>SQ030501_a02.wav</LectureSound>
+  </miniLecture>
+  
+  <Stem>Briefly summarize the problem the speakers are discussing.  Then state which solution you would recommend.  Explain the reasons for your recommendation.</Stem>
+  <StemWav>SQ030501_a03.wav</StemWav>
+  <Distractor_list> </Distractor_list>
+</TestItem>

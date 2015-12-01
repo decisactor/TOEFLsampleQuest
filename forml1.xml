@@ -1,0 +1,34 @@
+<TestItem CLASS="ListOfQuestions" USERSFORMDATALOCATION="c:\data_from_forms\">
+
+<TestItem CLASS="ListOfQuestions">
+ 
+<TESTLET LABEL="Directions" TEST_QUIT_BUTTON="1"> <TestItemName>HEADSET_ON</TestItemName> </TESTLET>
+
+<TESTLET LABEL="Listening" VOL_AVAIL="1" TEST_QUIT_BUTTON="1">
+  	 	<TestItemName>DIRECTIONS_LISTENING_SECTION_TIMED</TestItemName>
+</TESTLET>
+
+<TESTLET LABEL="Listening" TIME="600" NUMBQUESTS="11" OK_AVAIL="1" VOL_AVAIL="1"  SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="1">
+		<TestItemName>SQ020100.xml</TestItemName>	
+		<TestItemName>SQ020101.xml</TestItemName>	
+		<TestItemName>SQ020102.xml</TestItemName>	
+		<TestItemName>SQ020103.xml</TestItemName>	
+		<TestItemName>SQ020104.xml</TestItemName>	
+		<TestItemName>SQ020105.xml</TestItemName>	
+</TESTLET>
+
+<TESTLET LABEL="Listening" VOL_AVAIL="1" SKIP_IF_LEFTOVER_NULL="1" TEST_QUIT_BUTTON="1">
+  	 	<TestItemName>DIRECTIONS_LECTURE_SOLO</TestItemName>
+</TESTLET>
+
+
+<TESTLET LABEL="Listening" TIME="LEFT_OVER" NUMBQUESTS="11" QUESTBEGIN="6" OK_AVAIL="1" VOL_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="1" PAUSE_AFTER_LECTURE="0" PAUSE_AFTER_QUESTION="0">
+		<TestItemName>SQ020200.xml</TestItemName>	
+		<TestItemName>SQ020201.xml</TestItemName>	
+		<TestItemName>SQ020202.xml</TestItemName>	
+		<TestItemName>SQ020203.xml</TestItemName>	
+		<TestItemName>SQ020204.xml</TestItemName>	
+		<TestItemName>SQ020205.xml</TestItemName>	
+		<TestItemName>SQ020206.xml</TestItemName>	
+</TESTLET>
+

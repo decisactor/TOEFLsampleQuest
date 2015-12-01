@@ -1,0 +1,16 @@
+<TestItem CLASS="speaking_paced" METHOD="list" TIMELIMIT="60" PREPLIMIT="20" SHOWDIRECTIONS="FALSE">
+  <skillDimension>unknown</skillDimension>
+  <itemGroup></itemGroup>
+  
+  <miniLecture>
+    <LecturePicture>Wpod01A_jpg.jpg</LecturePicture>
+    <LecturePicture>Wpod01A_jpg.jpg</LecturePicture>
+    <LecturePicture>GetRead3_gif.gif</LecturePicture>
+    <LectureSound>SQ030601_a01.wav</LectureSound>
+    <LectureSound>SQ030601_a02.wav</LectureSound>
+  </miniLecture>
+  
+  <Stem>Using points and examples from the talk, describe the two different definitions of tools given by the professor.</Stem>
+  <StemWav>SQ030601_a03.wav</StemWav>
+  <Distractor_list> </Distractor_list>
+</TestItem>

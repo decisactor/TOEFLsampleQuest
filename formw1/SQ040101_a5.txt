@@ -1,0 +1,6 @@
+This response is well organized, selects the important information from all three points made in the lecture, and explains its relationship to the claims made in the reading passage about the advantages of computerized voting over traditional voting methods. 
+First, it counters the argument that computerized voting is more user-friendly and prevents distortion of the vote by saying that many voters find computers unfamiliar and some voters may end up not voting at all.
+Second, it challenges the argument that computerized voting will result in fewer miscounts by pointing out that programming errors may result in large-scale miscounts and that some errors may result in the loss of voting records.
+Third, it rejects the comparison of computerized voting with computerized banking by pointing out that the reliability of computerized banking (“reached a stable status”) has been achieved though frequent use, which does not apply to voting.
+There are occasional minor language errors: for example, “people not used of computers”; “miss counted”; “computer cause mistakes”; and the poor syntax of the last sentence (“All in all . . . ”). Some spelling errors are obviously typos: “everyoen.” The errors, however, are not at all frequent and do not result in unclear or inaccurate representation of the content.
+The response meets all the criteria for the score of 5.

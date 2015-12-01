@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <skillDimension>unknown</skillDimension>
+  <itemGroup>Is_Personality_Consistent</itemGroup>
+  <TPPassage>SQ010212.txt</TPPassage>
+  <Stem>The passage supports which of the following statements about Mischel's book?</Stem>
+  <Distractor_list>
+    <Distractor>It quickly gained widespread acceptance among psychologists.</Distractor>
+    <Distractor>It focused primarily on the traits of humor and honesty.</Distractor>
+    <Distractor>It was not based primarily on Mischel's own research.</Distractor>
+    <Distractor>It reflected the views of the majority of psychologists of the time.</Distractor>
+  </Distractor_list>
+  <Key> 3</Key>
+</TestItem>

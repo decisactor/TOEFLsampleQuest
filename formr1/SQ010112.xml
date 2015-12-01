@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
+<TPPassage>SQ010112.txt</TPPassage>
+<Stem>According to the passage, who conducted investigations about the current dangers posed by large meteorite impacts on Earth? </Stem>
+<Distractor_list>
+  <Distractor>Paleontologists</Distractor>
+  <Distractor>Geologists</Distractor>
+  <Distractor>The United States Congress</Distractor>
+  <Distractor>NASA</Distractor>
+</Distractor_list>
+
+<Key> 4</Key>
+</TestItem>

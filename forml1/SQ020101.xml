@@ -1,0 +1,13 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>SQ020100</itemGroup>
+<Stem>What are the speakers mainly discussing?</Stem>
+<StemWav>SQ020101_a01.wav</StemWav>
+<Distractor_list>
+  <Distractor>How the woman should prepare for the next game</Distractor>
+  <Distractor>The woman's responsibilities as team captain</Distractor>
+  <Distractor>Things that happened while the woman was away</Distractor>
+  <Distractor>The style of the new team uniforms</Distractor>
+</Distractor_list>
+<Key>3</Key>
+</TestItem>

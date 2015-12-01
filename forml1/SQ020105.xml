@@ -1,0 +1,14 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VC050866</itemGroup>
+<Stem>Why does the coach say this: </Stem>
+<StemWav>SQ020105_a01.wav</StemWav>
+<StupidAudioFile>SQ020105_a02.wav</StupidAudioFile>
+<Distractor_list>
+  <Distractor>He wants to know if the woman understood his point.</Distractor>
+  <Distractor>He wants the woman to act immediately.</Distractor>
+  <Distractor>He is preparing to change the topic.</Distractor>
+  <Distractor>He is ready to end the conversation.</Distractor>
+</Distractor_list>
+<Key>4</Key>
+</TestItem>

@@ -1,0 +1,16 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
+<TPPassage>SQ010110.txt</TPPassage>
+<Paragraph>6</Paragraph>
+<TPTopScrollLine>48</TPTopScrollLine>
+<Stem>Paragraph 6 supports which of the following statements about the factors that are essential for the survival of a species?</Stem>
+<Distractor_list>
+  <Distractor>The most important factor for the survival of a species is its ability to compete and adapt to gradual changes in its environment.</Distractor>
+  <Distractor>The ability of a species to compete and adapt to a gradually changing environment is not the only ability that is essential for survival. </Distractor>
+  <Distractor>Since most extinctions of species are due to major meteorite impacts, the ability to survive such impacts is the most important factor for the survival of a species.</Distractor>
+  <Distractor>The factors that are most important for the survival of a species vary significantly from one species to another.</Distractor>
+</Distractor_list>
+
+<Key> 2</Key>
+</TestItem>

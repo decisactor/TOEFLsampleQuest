@@ -1,0 +1,7 @@
+<TestItem CLASS="independentwriting_paced" METHOD="list" TIMELIMIT="30" SHOWDIRECTIONS="FALSE">
+	<skillDimension>unknown</skillDimension>
+	<itemGroup></itemGroup>
+	<Stem>Do you agree or disagree with the following statement?  [A teacher's ability to relate well with students is more important than excellent knowledge of the subject being taught.[Use specific reasons and examples to support your answer.       </Stem>
+	<StemWav></StemWav>
+	<Distractor_list></Distractor_list>
+</TestItem>

@@ -1,0 +1,12 @@
+<TestItem CLASS="passage_insertText" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
+<TPPassage>SQ010113.txt</TPPassage>
+<TPTopScrollLine>51</TPTopScrollLine>
+<Stem>Look at the four squares [ |   | ] that indicate where the following sentence can be added to the passage.</Stem>
+<Distractor_list>
+   <Distractor>This is the criterion emphasized by Darwin's theory of evolution by natural selection. </Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

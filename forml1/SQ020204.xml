@@ -1,0 +1,13 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>SQ020200</itemGroup>
+<Stem>Why does the professor mention a smeared bit of paint in a doorway in                             `The Moonstone`   ?</Stem>
+<StemWav>SQ020204_a01.wav</StemWav>
+<Distractor_list>
+  <Distractor>To describe a mistake that Sergeant Cuff has made</Distractor>
+  <Distractor>To show how realistically the author describes the crime scene</Distractor>
+  <Distractor>To exemplify a pattern repeated in many other detective stories</Distractor>
+  <Distractor>To illustrate the superior techniques used by the police</Distractor>
+</Distractor_list>
+<Key>3</Key>
+</TestItem>

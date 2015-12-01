@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
+<TPPassage>SQ010105.txt</TPPassage>
+<Stem>The word |excavating| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>digging out</Distractor>
+  <Distractor>extending</Distractor>
+  <Distractor>destroying</Distractor>
+  <Distractor>covering up</Distractor>
+</Distractor_list>
+
+<Key> 1</Key>
+</TestItem>

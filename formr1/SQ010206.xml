@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+  <itemGroup>Is_Personality_Consistent</itemGroup>
+  <TPPassage>SQ010206.txt</TPPassage>
+  <TPTopScrollLine>29</TPTopScrollLine>
+  <Paragraph>3</Paragraph>
+  <Stem>According to paragraph 3, Mischel and his allies have been criticized for which of the following reasons?</Stem>
+  <Distractor_list>
+    <Distractor>They failed to recognize that a person can be consistent on certain traits even though the person might not be consistent on all traits.</Distractor>
+    <Distractor>They were wrong in their conclusion that people do not always behave consistently across situations.</Distractor>
+    <Distractor>They considered scientific research to be a more valid test of cross-situational consistency than peoples' own judgments.</Distractor>
+    <Distractor>They overlooked the fact that some traits are more likely than others to result in behavior that is consistent across situations.</Distractor>
+  </Distractor_list>
+  <Key> 1</Key>
+</TestItem>

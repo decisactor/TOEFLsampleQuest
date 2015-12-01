@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_insertText" METHOD="list">
+    <skillDimension>unknown</skillDimension>
+    <itemGroup>Is_Personality_Consistent</itemGroup>
+    <TPPassage>SQ010213.txt</TPPassage>
+    <TPTopScrollLine>29</TPTopScrollLine>
+    <Stem>Look at the four squares [ |   | ] that indicate where the following sentence can be added to the passage.</Stem>
+    
+    <Distractor_list>
+        <Distractor>Their behavior varies considerably because different situations often involve different sets of people and thus quite often different standards of behavior. </Distractor>
+    </Distractor_list>
+    
+    <Key>2</Key>
+</TestItem>

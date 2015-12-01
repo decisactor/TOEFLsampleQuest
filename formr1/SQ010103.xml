@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
+<TPPassage>SQ010104.txt</TPPassage>
+<Paragraph>3</Paragraph>
+<Stem>Which of the following can be inferred from paragraph 3 about the location of the meteorite impact in Mexico?</Stem>
+<Distractor_list>
+  <Distractor>The location of the impact site in Mexico was kept secret by geologists from 1980 to 1990.</Distractor>
+  <Distractor>It was a well-known fact that the impact had occurred in the Yucat�n region.</Distractor>
+  <Distractor>Geologists knew that there had been an impact before they knew where it had occurred.</Distractor>
+  <Distractor>The Yucat�n region was chosen by geologists as the most probable impact site because of its climate.</Distractor>
+</Distractor_list>
+
+<Key> 3</Key>
+</TestItem>

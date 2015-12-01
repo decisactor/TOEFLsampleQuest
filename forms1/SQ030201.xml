@@ -1,0 +1,7 @@
+<TestItem CLASS="speaking_paced" METHOD="list" TIMELIMIT="45" PREPLIMIT="15" SHOWDIRECTIONS="FALSE">
+	<skillDimension>unknown</skillDimension>
+	<itemGroup></itemGroup>
+	<Stem>Some people think it is more fun to spend time with friends in restaurants or caf&#233;s. Others think it is more fun to spend time with friends at home. Which do you think is better? Explain why. </Stem>
+	<StemWav>SQ030201_a01.wav</StemWav>
+	<Distractor_list></Distractor_list>
+</TestItem>

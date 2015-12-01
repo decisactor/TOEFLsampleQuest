@@ -1,0 +1,17 @@
+<TestItem CLASS="ListOfQuestions">
+
+TTT_MICROPHONECHECK
+
+<TESTLET LABEL="Speaking" VOL_AVAIL="1" TEST_QUIT_BUTTON="1">
+  	 	<TestItemName>DIRECTIONS_SPEAKING_SECTION</TestItemName>
+</TESTLET>
+ 
+<TESTLET LABEL="Speaking" VOL_AVAIL="1" NUMBQUESTS="6" QUESTBEGIN="1" TEST_QUIT_BUTTON="1" PAUSE_AFTER_LECTURE="0" PAUSE_AFTER_QUESTION="0" MINIPASSAGE_UNTIMED="0" REVIEW_SAMPLER_AVAIL="1">
+		<TestItemName>SQ030101.xml</TestItemName>
+		<TestItemName>SQ030201.xml</TestItemName>
+		<TestItemName>SQ030301.xml</TestItemName>
+		<TestItemName>SQ030401.xml</TestItemName>
+		<TestItemName>SQ030501.xml</TestItemName>
+		<TestItemName>SQ030601.xml</TestItemName>
+</TESTLET>
+

@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <skillDimension>unknown</skillDimension>
+  <itemGroup>Is_Personality_Consistent</itemGroup>
+  <TPPassage>SQ010209.txt</TPPassage>
+  <TPTopScrollLine>29</TPTopScrollLine>
+  <Paragraph>4</Paragraph>
+  <Stem>According to paragraph 4, why are high self-monitors less likely to be consistent across situations than are low self-monitors?</Stem>
+  <Distractor_list>
+    <Distractor>High self-monitors tend to care more about their own behavior than they do about the behavior of others.</Distractor>
+    <Distractor>High self-monitors tend to avoid situations in which their natural way of behaving is likely to be perceived unfavorably by others.</Distractor>
+    <Distractor>Expectations concerning acceptable behaviors tend to be widely shared and consistent across situations.</Distractor>
+    <Distractor>People who are more concerned about how they appear to others are more likely to be influenced in how they behave by the people they are with.</Distractor>
+  </Distractor_list>
+  <Key> 4</Key>
+</TestItem>

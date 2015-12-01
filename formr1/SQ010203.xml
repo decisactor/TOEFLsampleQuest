@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <skillDimension>unknown</skillDimension>
+  <itemGroup>Is_Personality_Consistent</itemGroup>
+  <TPPassage>SQ010203.txt</TPPassage>
+  <Stem>Which of the following best describes the relation of paragraph 2 to paragraph 1?</Stem>
+  <Distractor_list>
+    <Distractor>Paragraph 2 introduces new research findings that challenge the conclusion presented in paragraph 1.</Distractor>
+    <Distractor>Paragraph 2 presents common situations that the conclusion presented in paragraph 1 cannot account for.</Distractor>
+    <Distractor>Paragraph 2 provides the evidence on which the conclusion presented in paragraph 1 was based.</Distractor>
+    <Distractor>Paragraph 2 explains why our experiences of personality do not seem to support the conclusion presented in paragraph 1.</Distractor>
+  </Distractor_list>
+  <Key> 4</Key>
+</TestItem>

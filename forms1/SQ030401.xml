@@ -1,0 +1,24 @@
+<TestItem CLASS="speaking_paced" METHOD="list" TIMELIMIT="60" PREPLIMIT="30" SHOWDIRECTIONS="FALSE">
+  <skillDimension>unknown</skillDimension>
+  <itemGroup></itemGroup>
+  
+  <miniPassage>
+    <miniPassageIntroSound>SQ030401_a01.wav</miniPassageIntroSound>
+    <miniPassageIntroPic>headphon_jpg.jpg</miniPassageIntroPic>
+    <miniPassageDuration>45</miniPassageDuration>
+    <miniPassageTitle>Flow</miniPassageTitle>
+    <miniPassageText>In psychology, the feeling of complete and energized focus in an activity is called |flow|. People who enter a state of flow lose their sense of time and have a feeling of great satisfaction. They become completely involved in an activity for its own sake rather than for what may result from the activity, such as money or prestige. Contrary to expectation, flow usually happens not during relaxing moments of leisure and entertainment, but when we are actively involved in a difficult enterprise, in a task that stretches our mental or physical abilities.              </miniPassageText>
+  </miniPassage>
+  
+  <miniLecture>
+    <LecturePicture>Mtab05C_jpg.jpg</LecturePicture>
+    <LecturePicture>Mtab05C_jpg.jpg</LecturePicture>
+    <LecturePicture>GetRead3_gif.gif</LecturePicture>
+    <LectureSound>SQ030401_a02.wav</LectureSound>
+    <LectureSound>SQ030401_a03.wav</LectureSound>
+  </miniLecture>
+  
+  <Stem>Explain |flow| and how the example used by the professor illustrates the concept.</Stem>
+  <StemWav>SQ030401_a04.wav</StemWav>
+  <Distractor_list></Distractor_list>
+</TestItem>

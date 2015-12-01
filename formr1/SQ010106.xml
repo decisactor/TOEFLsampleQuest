@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
+<TPPassage>SQ010106.txt</TPPassage>
+<TPTopScrollLine>41</TPTopScrollLine>
+<Stem>The word |consumed| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>changed</Distractor>
+  <Distractor>exposed</Distractor>
+  <Distractor>destroyed</Distractor>
+  <Distractor>covered</Distractor>
+</Distractor_list>
+
+<Key> 3</Key>
+</TestItem>

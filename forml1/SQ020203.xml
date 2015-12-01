@@ -1,0 +1,13 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>SQ020200</itemGroup>
+<Stem>According to the professor, what do roses in `The Moonstone`   represent?</Stem>
+<StemWav>SQ020203_a01.wav</StemWav>
+<Distractor_list>
+  <Distractor>A key clue that leads to the solving of the mystery</Distractor>
+  <Distractor>A relief and comfort to the detective</Distractor>
+  <Distractor>Romance between the main characters</Distractor>
+  <Distractor>Brilliant ideas that occur to the detective</Distractor>
+</Distractor_list>
+<Key>2</Key>
+</TestItem>

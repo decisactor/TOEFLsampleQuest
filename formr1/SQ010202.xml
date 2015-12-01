@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <skillDimension>unknown</skillDimension>
+  <itemGroup>Is_Personality_Consistent</itemGroup>
+  <TPPassage>SQ010202.txt</TPPassage>
+  <Stem>According to paragraph 1, what was Mischel's position in the book he published in 1968?</Stem>
+  <Distractor_list>
+    <Distractor>It is impossible to predict whether someone who scored high on a given personality trait, such as generosity, would continue to score high on that trait in the future.</Distractor>
+    <Distractor>The way a person behaves in a given situation is not determined primarily by personality traits that person has.</Distractor>
+    <Distractor>Most of the research done in the 40 years before the book was published had overestimated the influence of situations on how people behaved.</Distractor>
+    <Distractor>The correlation between any two personality traits is too low to provide support for the common view that people's personalities are generally consistent.</Distractor>
+  </Distractor_list>
+  <Key> 2</Key>
+</TestItem>

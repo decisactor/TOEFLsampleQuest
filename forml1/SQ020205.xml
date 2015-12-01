@@ -1,0 +1,14 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+  <skillDimension>unknown</skillDimension>
+  <itemGroup>SQ020200</itemGroup>
+  <Stem>What can be inferred about the professor when he says this: </Stem>
+  <StemWav>SQ020205_a01.wav</StemWav>
+  <StupidAudioFile>SQ020205_a02.wav</StupidAudioFile>
+  <Distractor_list>
+    <Distractor>He is impressed by the novel's originality.</Distractor>
+    <Distractor>He is concerned that students may find the novel difficult to read.</Distractor>
+    <Distractor>He is bored by the novel's descriptions of ordinary events.</Distractor>
+    <Distractor>He is eager to write a book about a less familiar subject.</Distractor>
+  </Distractor_list>
+  <Key>1</Key>
+</TestItem>

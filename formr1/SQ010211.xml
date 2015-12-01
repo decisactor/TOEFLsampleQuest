@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <skillDimension>unknown</skillDimension>
+  <itemGroup>Is_Personality_Consistent</itemGroup>
+  <TPPassage>SQ010211.txt</TPPassage>
+  <TPTopScrollLine>30</TPTopScrollLine>
+  <Stem>Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</Stem>
+  <Distractor_list>
+    <Distractor>The correlation between traits and behaviors in specific situations becomes higher when predictions are made more frequently.</Distractor>
+    <Distractor>When we observe a person's behavior over a long period of time, we can make fairly accurate predictions about personality traits.</Distractor>
+    <Distractor>It is more difficult to accurately predict how a person will behave in a specific situation than it is to predict characteristic behavior.</Distractor>
+    <Distractor>Both traits and typical behaviors can be observed and used to predict the consistency of a person's personality.</Distractor>
+  </Distractor_list>
+  <Key> 3</Key>
+</TestItem>

@@ -1,0 +1,7 @@
+<TestItem CLASS="speaking_paced" METHOD="list" TIMELIMIT="45" PREPLIMIT="15" SHOWDIRECTIONS="FALSE">
+	<skillDimension>unknown</skillDimension>
+	<itemGroup></itemGroup>
+	<Stem>Talk about a pleasant and memorable event that happened while you were in school. Explain why this event brings back fond memories. </Stem>
+	<StemWav>SQ030101_a01.wav</StemWav>
+	<Distractor_list></Distractor_list>
+</TestItem>

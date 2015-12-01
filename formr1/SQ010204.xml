@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <skillDimension>unknown</skillDimension>
+  <itemGroup>Is_Personality_Consistent</itemGroup>
+  <TPPassage>SQ010204.txt</TPPassage>
+  <Paragraph>2</Paragraph>
+  <Stem>According to paragraph 2, each of the following could be responsible for our perception that most people behave consistently across situations EXCEPT:</Stem>
+  <Distractor_list>
+    <Distractor>People tend to avoid situations in which they would be likely to behave in ways that are inconsistent with their self-image.</Distractor>
+    <Distractor>We often overlook the fact that we may always encounter a person in the same type of situation.</Distractor>
+    <Distractor>We form an initial impression of people's personality the first time we meet them and gradually adjust that view as we see more of them.</Distractor>
+    <Distractor>People might consistently behave in a certain way whenever one person is around and in another way whenever a different person is around.</Distractor>
+  </Distractor_list>
+  <Key> 3</Key>
+</TestItem>

@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
+<TPPassage>SQ010109.txt</TPPassage>
+<TPTopScrollLine>51</TPTopScrollLine>
+<Stem>The word |perspective| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>sense of values</Distractor>
+  <Distractor>point of view</Distractor>
+  <Distractor>calculation</Distractor>
+  <Distractor>complication</Distractor>
+</Distractor_list>
+
+<Key> 2</Key>
+</TestItem>

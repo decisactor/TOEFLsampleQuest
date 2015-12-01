@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
+<TPPassage>SQ010102.txt</TPPassage>
+<Paragraph>2</Paragraph>
+<Stem>In paragraph 2, why does the author include the information that dinosaurs had flourished for tens of millions of years and then suddenly disappeared?</Stem>
+<Distractor_list>
+  <Distractor>To support the claim that the mass extinction at the end of the Cretaceous is the best-documented of the dozen or so mass extinctions in the geological record</Distractor>
+  <Distractor>To explain why as many as half of the species on Earth at the time are believed to have become extinct at the end of the Cretaceous</Distractor>
+  <Distractor>To explain why paleontologists have always been intrigued by the mass extinction at the end of the Cretaceous</Distractor>
+  <Distractor>To provide evidence that an impact can be large enough to disturb the environment of the entire planet and cause an ecological disaster</Distractor>
+</Distractor_list>
+
+<Key> 3</Key>
+</TestItem>

@@ -1,0 +1,13 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>SQ020100</itemGroup>
+<Stem>Who is buying new jackets for the team?</Stem>
+<StemWav>SQ020102_a01.wav</StemWav>
+<Distractor_list>
+  <Distractor>The coach</Distractor>
+  <Distractor>The captain of the team</Distractor>
+  <Distractor>A former player</Distractor>
+  <Distractor>A group of basketball fans</Distractor>
+</Distractor_list>
+<Key>3</Key>
+</TestItem>

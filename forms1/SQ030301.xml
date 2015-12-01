@@ -1,0 +1,24 @@
+<TestItem CLASS="speaking_paced" METHOD="list" TIMELIMIT="60" PREPLIMIT="30" SHOWDIRECTIONS="FALSE">
+  <skillDimension>unknown</skillDimension>
+  <itemGroup></itemGroup>
+  <miniPassage>
+    <miniPassageIntroSound>SQ030301_a01.wav</miniPassageIntroSound>
+    <miniPassageIntroPic>headphon_jpg.jpg</miniPassageIntroPic>
+    <miniPassageDuration>45</miniPassageDuration>
+    <miniPassageTitle>Good News for Movie Fans</miniPassageTitle>
+    <miniPassageText>The Student Association has just purchased a new sound system for the Old Lincoln Hall auditorium, the place where movies on campus are currently shown. By installing the new sound system, the Student Association hopes to attract more students to the movies and increase ticket sales. Before making the purchase of the new equipment, the Student Association conducted a survey on campus to see what kind of entertainment students liked best. Going to the movies ranked number one. "Students at Northfield College love going to the movies," said the president of the Student Association "so we decided to make what they already love even better. We're confident that the investment into the sound system will translate into increased ticket sales." </miniPassageText>
+  </miniPassage>
+  
+  <miniLecture>
+    <LecturePicture>NwsLngA6_jpg.jpg</LecturePicture>
+    <LecturePicture>NwsLngA6_jpg.jpg</LecturePicture>
+    <LecturePicture>GetRead3_gif.gif</LecturePicture>
+    <LectureSound>SQ030301_a02.wav</LectureSound>
+    <LectureSound>SQ030301_a03.wav</LectureSound>
+  </miniLecture>
+  
+  <Stem>The man expresses his opinion of the Student Association's recent purchase. State his opinion and explain the reasons he gives for holding that opinion. </Stem>
+  <StemWav>SQ030301_a04.wav</StemWav>
+  <Distractor_list></Distractor_list>
+  
+</TestItem>

@@ -1,0 +1,13 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>SQ020202</itemGroup>
+<Stem>In what way is `The Moonstone`   different from earlier works featuring a detective?</Stem>
+<StemWav>SQ020202_a01.wav</StemWav>
+<Distractor_list>
+  <Distractor>In its unusual ending</Distractor>
+  <Distractor>In its unique characters</Distractor>
+  <Distractor>In its focus on a serious crime</Distractor>
+  <Distractor>In its greater length</Distractor>
+</Distractor_list>
+<Key>4</Key>
+</TestItem>

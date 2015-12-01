@@ -1,0 +1,20 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VC050866</itemGroup>
+<miniLecture>
+  <LecturePicture>RplayCon_gif.gif</LecturePicture>
+  <LecturePicture>SQ020100.jpg</LecturePicture>
+  <LectureSound>SQ020104_a01.wav</LectureSound>
+  <LectureSound>SQ020104_a02.wav</LectureSound>
+</miniLecture>
+<Stem>What does the man mean when he says this: </Stem>
+<StemWav>SQ020104_a03.wav</StemWav>
+<StupidAudioFile>SQ020104_a04.wav</StupidAudioFile>
+<Distractor_list>
+  <Distractor>He hopes the woman's family is doing well.</Distractor>
+  <Distractor>He would like to meet the woman's family.</Distractor>
+  <Distractor>The woman should spend more time with her family.</Distractor>
+  <Distractor>The woman had a good reason for missing practice.</Distractor>
+</Distractor_list>
+<Key>4</Key>
+</TestItem>

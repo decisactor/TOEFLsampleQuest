@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
+<TPPassage>SQ010111.txt</TPPassage>
+<TPTopScrollLine>41</TPTopScrollLine>
+<Stem>Which of the sentences below best expresses the essential information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</Stem>
+<Distractor_list>
+  <Distractor>Until recently, nobody realized that Earth is exposed to unpredictable violent impacts from space.</Distractor>
+  <Distractor>In the last few decades, the risk of a random violent impact from space has increased.</Distractor>
+  <Distractor>Since most violent events on Earth occur randomly, nobody can predict when or where they will happen.</Distractor>
+  <Distractor>A few decades ago, Earth became the target of random violent events originating in outer space. </Distractor>
+</Distractor_list>
+
+<Key> 1</Key>
+</TestItem>

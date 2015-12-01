@@ -1,0 +1,14 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>VC087198</itemGroup>
+<Stem>What does the professor imply when he says this: </Stem>
+<StemWav>SQ020206_a01.wav</StemWav>
+<StupidAudioFile>SQ020206_a02.wav</StupidAudioFile>
+<Distractor_list>
+  <Distractor>Sergeant Cuff is unlike other characters in `The Moonstone`.</Distractor>
+  <Distractor>The author's description of Sergeant Cuff is very realistic.</Distractor>
+  <Distractor>Sergeant Cuff learned to solve crimes by observing the regular police.</Distractor>
+  <Distractor>Differences between Sergeant Cuff and Sherlock Holmes are hard to describe.</Distractor>
+</Distractor_list>
+<Key>1</Key>
+</TestItem>

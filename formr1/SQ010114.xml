@@ -1,0 +1,33 @@
+<TestItem CLASS="draggy" METHOD="list">
+<TPviewtext PASSAGE="Meteorite_Impact_and_Dinosaur_Extinction.txt">
+<QuestBmp>SQ010114.bmp</QuestBmp>
+</TPviewtext>
+<tpFont>Arial,12,0</tpFont>
+<Comment>Directions: An introductory sentence for a brief summary of the passage is provided below.</Comment>
+<tpObject_list>
+     <tpObject>43,555,473,0,Scientists had believed for centuries that meteorite activity influenced evolution on Earth.</tpObject>
+     <tpObject>534,558,465,0,An iridium-enriched sediment layer and a large impact crater in the Yucat�n provide evidence that a large meteorite struck Earth about 65 million years ago.</tpObject>
+     <tpObject>44,628,477,0,The site of the large meteorite impact at the end of the Cretaceous period was identified in 1990.</tpObject>
+     <tpObject>534,637,462,0,Large meteorite impacts, such as one at the end of the Cretaceous period, can seriously affect climate, ecological niches, plants, and animals.</tpObject>
+     <tpObject>43,701,481,0,There have also been large meteorite impacts on the surface of the Moon, leaving craters like Tycho.</tpObject>
+     <tpObject>534,701,464,0,Meteorite impacts can be advantageous for some species, which thrive, and disastrous for other species, which become extinct.</tpObject>
+</tpObject_list>
+<offset>-140,-100</offset>
+<bucketSize>739,160</bucketSize>
+<tpBucket_list>
+     <tpBucket>271,325</tpBucket>
+     <tpBucket>271,406</tpBucket>
+     <tpBucket>271,489</tpBucket>
+     <tpBucket>38,555</tpBucket>
+     <tpBucket>529,558</tpBucket>
+     <tpBucket>39,628</tpBucket>
+     <tpBucket>529,637</tpBucket>
+     <tpBucket>38,701</tpBucket>
+     <tpBucket>529,701</tpBucket>
+</tpBucket_list>
+<specialShowAnswer>2,4,6,1,0,3,0,5,0,</specialShowAnswer>
+<Key>2;NO_ORDER,2,4,6</Key>
+<Key>1;NO_ORDER,1,*,2</Key>
+<Key>1;NO_ORDER,1,2,*</Key>
+<Key>1;NO_ORDER,*,4,2</Key>
+</TestItem>

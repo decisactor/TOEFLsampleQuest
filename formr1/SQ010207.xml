@@ -1,0 +1,17 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <skillDimension>unknown</skillDimension>
+  <itemGroup>Is_Personality_Consistent</itemGroup>
+  <TPPassage>SQ010207.txt</TPPassage>
+  <TPTopScrollLine>29</TPTopScrollLine>
+  <Paragraph>3</Paragraph>
+  <Stem>According to paragraph 3, a good indication that someone is consistent on a given trait is that the person</Stem>
+  
+  <Distractor_list>
+    <Distractor>exhibits behaviors reflecting that trait in certain situations</Distractor>
+    <Distractor>is ready to judge others on that trait</Distractor>
+    <Distractor>claims to be consistent on that trait</Distractor>
+    <Distractor>is eager to talk about that trait</Distractor>
+  </Distractor_list>
+  
+  <Key> 3</Key>
+</TestItem>

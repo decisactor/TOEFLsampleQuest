@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <skillDimension>unknown</skillDimension>
+  <itemGroup>Is_Personality_Consistent</itemGroup>
+  <TPPassage>SQ010201.txt</TPPassage>
+  <Stem>The word |confidence| in the passage is closest in meaning to</Stem>
+  
+  <Distractor_list>
+    <Distractor>certainty</Distractor>
+    <Distractor>recognition</Distractor>
+    <Distractor>efficiency</Distractor>
+    <Distractor>documentation</Distractor>
+  </Distractor_list>
+  
+  <Key> 1</Key>
+</TestItem>

@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
+<TPPassage>SQ010104.txt</TPPassage>
+<Paragraph>3</Paragraph>
+<Stem>According to paragraph 3, how did scientists determine that a large meteorite had impacted Earth?</Stem>
+<Distractor_list>
+  <Distractor>They discovered a large crater in the Yucat�n region of Mexico.</Distractor>
+  <Distractor>They found a unique layer of sediment worldwide.</Distractor>
+  <Distractor>They were alerted by archaeologists who had been excavating in the Yucat�n region.</Distractor>
+  <Distractor>They located a meteorite with a mass of over a trillion tons.</Distractor>
+</Distractor_list>
+
+<Key> 2</Key>
+</TestItem>

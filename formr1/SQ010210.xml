@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <skillDimension>unknown</skillDimension>
+  <itemGroup>Is_Personality_Consistent</itemGroup>
+  <TPPassage>SQ010210.txt</TPPassage>
+  <TPTopScrollLine>29</TPTopScrollLine>
+  <Paragraph>5</Paragraph>
+  <Stem>According to paragraph 5, what is wrong with many of the studies Mischel reviewed?</Stem>
+  <Distractor_list>
+    <Distractor>They do not adequately consider that different personality traits might be highly correlated with each other.</Distractor>
+    <Distractor>They are based on a flawed idea of how to investigate the relation between personality traits and behaviors.</Distractor>
+    <Distractor>They are not consistent with each other in the way they determine trait test scores.</Distractor>
+    <Distractor>Their predictions about behavior are not satisfied by the results they actually obtained.</Distractor>
+  </Distractor_list>
+  <Key> 2</Key>
+</TestItem>

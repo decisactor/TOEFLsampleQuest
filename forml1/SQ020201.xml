@@ -1,0 +1,13 @@
+<TestItem CLASS="ssmc_simple" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>SQ020200</itemGroup>
+<Stem>What is the lecture mainly about?</Stem>
+<StemWav>SQ020201_a01.wav</StemWav>
+<Distractor_list>
+  <Distractor>A comparison of two types of detective novels</Distractor>
+  <Distractor>Ways in which detective novels have changed over time</Distractor>
+  <Distractor>`The Moonstone` as a model for later detective novels</Distractor>
+  <Distractor>Flaws that can be found in the plot of `The Moonstone`</Distractor>
+</Distractor_list>
+<Key>3</Key>
+</TestItem>

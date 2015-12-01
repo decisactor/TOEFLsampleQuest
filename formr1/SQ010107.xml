@@ -1,0 +1,16 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
+<TPPassage>SQ010107.txt</TPPassage>
+<Paragraph>4</Paragraph>
+<TPTopScrollLine>27</TPTopScrollLine>
+<Stem>According to paragraph 4, all of the following statements are true of the impact at the end of the Cretaceous period EXCEPT:</Stem>
+<Distractor_list>
+  <Distractor>A large amount of dust blocked sunlight from Earth.</Distractor>
+  <Distractor>Earth became cold and dark for several months.</Distractor>
+  <Distractor>New elements were formed in Earth's crust.</Distractor>
+  <Distractor>Large quantities of nitric acid were produced.</Distractor>
+</Distractor_list>
+
+<Key> 3</Key>
+</TestItem>

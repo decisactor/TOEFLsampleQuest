@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+<skillDimension>unknown</skillDimension>
+<itemGroup>Meteorite_Impact_and_Dinosaur_Extinction</itemGroup>
+<TPPassage>SQ010108.txt</TPPassage>
+<TPTopScrollLine>41</TPTopScrollLine>
+<Stem>The phrase |tentatively identified| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>identified after careful study</Distractor>
+  <Distractor>identified without certainty</Distractor>
+  <Distractor>occasionally identified</Distractor>
+  <Distractor>easily identified</Distractor>
+</Distractor_list>
+
+<Key> 2</Key>
+</TestItem>

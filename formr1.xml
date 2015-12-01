@@ -1,0 +1,45 @@
+<TestItem CLASS="ListOfQuestions" USERSFORMDATALOCATION="c:\data_from_forms\">
+
+<TESTLET LABEL="Reading" TEST_QUIT_BUTTON="1" TIMELABEL="2400">
+  	 	<TestItemName>DIRECTIONS_READING_INTRO_SOLO</TestItemName>
+        <TestItemName>DIRECTIONS_READ_SOLO</TestItemName>
+</TESTLET>
+
+
+<TESTLET LABEL="Reading" FORCE_COMPLETE_ANS="0" TIME="2400" NUMBQUESTS="14" PREV_AVAIL="1" READING_EARLY_END="1" REVIEW_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="1">
+		<TestItemName>Meteorite_Impact_and_Dinosaur_Extinction.xml</TestItemName>	
+		<TestItemName>SQ010101.xml</TestItemName>	
+		<TestItemName>SQ010102.xml</TestItemName>	
+		<TestItemName>SQ010103.xml</TestItemName>	
+		<TestItemName>SQ010104.xml</TestItemName>	
+		<TestItemName>SQ010105.xml</TestItemName>	
+		<TestItemName>SQ010106.xml</TestItemName>	
+		<TestItemName>SQ010107.xml</TestItemName>	
+		<TestItemName>SQ010108.xml</TestItemName>	
+		<TestItemName>SQ010109.xml</TestItemName>	
+		<TestItemName>SQ010110.xml</TestItemName>	
+		<TestItemName>SQ010111.xml</TestItemName>	
+		<TestItemName>SQ010112.xml</TestItemName>	
+		<TestItemName>SQ010113.xml</TestItemName>	
+		<TestItemName>SQ010114.xml</TestItemName>	
+</TESTLET>
+
+<TestItem CLASS="ListOfQuestions">
+	
+<TESTLET LABEL="Reading" FORCE_COMPLETE_ANS="0" TIME="LEFT_OVER" NUMBQUESTS="14" PREV_AVAIL="1" READING_EARLY_END="1" REVIEW_AVAIL="1" SHOW_ANSWER="1"ON TEST_QUIT_BUTTON="1">
+		<TestItemName>Is_Personality_Consistent.xml</TestItemName>	
+		<TestItemName>SQ010201.xml</TestItemName>	
+		<TestItemName>SQ010202.xml</TestItemName>	
+		<TestItemName>SQ010203.xml</TestItemName>	
+		<TestItemName>SQ010204.xml</TestItemName>	
+		<TestItemName>SQ010205.xml</TestItemName>	
+		<TestItemName>SQ010206.xml</TestItemName>	
+		<TestItemName>SQ010207.xml</TestItemName>	
+		<TestItemName>SQ010208.xml</TestItemName>	
+		<TestItemName>SQ010209.xml</TestItemName>	
+		<TestItemName>SQ010210.xml</TestItemName>	
+		<TestItemName>SQ010211.xml</TestItemName>	
+		<TestItemName>SQ010212.xml</TestItemName>	
+		<TestItemName>SQ010213.xml</TestItemName>	
+<		<TestItemName>SQ010214.xml</TestItemName>	
+</TESTLET>
