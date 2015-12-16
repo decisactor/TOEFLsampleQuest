@@ -2,16 +2,23 @@
 <skillDimension>unknown</skillDimension>
 <itemGroup>SQ020200</itemGroup>
   <LecturePicture>literat_gif.gif</LecturePicture>
-  <LecturePicture>ArclaD10_jpg.jpg</LecturePicture>
-  <LecturePicture>SQ020200_g01.gif</LecturePicture>
-  <LecturePicture>ArclaD10_jpg.jpg</LecturePicture>
-  <LecturePicture>SQ020200_g02.gif</LecturePicture>
-  <LecturePicture>ArclaD10_jpg.jpg</LecturePicture>
-  <LecturePicture>GetReady_gif.gif</LecturePicture>
   <LectureSound>SQ020200_a01.wav</LectureSound>
+  <LecturePicture>ArclaD10_jpg.jpg</LecturePicture>
+  
   <LectureSound>SQ020200_a02.wav</LectureSound>
-
-
+  <LecturePicture>SQ020200_g01.gif</LecturePicture>
+  
+  <LectureSound>SQ020200_a03.wav</LectureSound>
+  <LecturePicture>ArclaD10_jpg.jpg</LecturePicture>
+  
+  <LectureSound>SQ020200_a04.wav</LectureSound>
+  <LecturePicture>SQ020200_g02.gif</LecturePicture>
+  
+  <LectureSound>SQ020200_a05.wav</LectureSound>
+  <LecturePicture>ArclaD10_jpg.jpg</LecturePicture>
+  
+  <LectureSound>SQ020200_a06.wav</LectureSound>
+  <LecturePicture>GetReady_gif.gif</LecturePicture>
 
 <audio_text>Listen to part of a lecture in a literature class.
 Today I'd like to introduce you to a novel that some critics consider the finest detective novel ever written. It was also the first. We're talking about <published_title>The Moonstone</published_title> by Wilkie Collins.
