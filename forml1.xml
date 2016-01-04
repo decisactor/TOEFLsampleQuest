@@ -2,7 +2,9 @@
 
 <TestItem CLASS="ListOfQuestions">
  
-<TESTLET LABEL="Directions" TEST_QUIT_BUTTON="1"> <TestItemName>HEADSET_ON</TestItemName> </TESTLET>
+<TESTLET LABEL="Directions" TEST_QUIT_BUTTON="1"> 
+        <TestItemName>HEADSET_ON</TestItemName> 
+</TESTLET>
 
 <TESTLET LABEL="Listening" VOL_AVAIL="1" TEST_QUIT_BUTTON="1">
   	 	<TestItemName>DIRECTIONS_LISTENING_SECTION_TIMED</TestItemName>
